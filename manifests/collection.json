@@ -21,5 +21,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/v3-testing/manifests/manifest_v2_no_v3.json",
     "label" : "Glen's test manifest"
+  }, {
+    "id" : "https://iiif-test.github.io/v3-testing/manifests/manifest-single-recording.json",
+    "label" : {
+      "en" : [ "Simplest Audio Example 1" ]
+    },
+    "type" : "Manifest"
   } ]
 }
