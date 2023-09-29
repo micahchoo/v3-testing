@@ -11,5 +11,11 @@
       "en" : [ "Glen's test manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://iiif-test.github.io/v3-testing/manifests/manifestv3.json",
+    "label" : {
+      "en" : [ "Glen's test manifest" ]
+    },
+    "type" : "Manifest"
   } ]
 }
