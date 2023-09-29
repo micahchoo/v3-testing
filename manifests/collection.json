@@ -17,5 +17,9 @@
       "en" : [ "Glen's test manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/v3-testing/manifests/manifest_v2_no_v3.json",
+    "label" : "Glen's test manifest"
   } ]
 }
