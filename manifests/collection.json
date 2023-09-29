@@ -1,0 +1,15 @@
+{
+  "id" : "https://iiif-test.github.io/v3-testing/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in iiif-test/v3-testing project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://iiif-test.github.io/v3-testing/manifests/manifest_v3.json",
+    "label" : {
+      "en" : [ "Glen's test manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
