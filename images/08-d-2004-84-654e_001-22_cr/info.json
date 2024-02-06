@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 96,
+    "height" : 125
+  }, {
+    "width" : 191,
+    "height" : 249
+  }, {
+    "width" : 382,
+    "height" : 498
+  }, {
+    "width" : 764,
+    "height" : 995
+  }, {
+    "width" : 1528,
+    "height" : 1990
+  }, {
+    "width" : 3055,
+    "height" : 3980
+  } ],
+  "profile" : "level0",
+  "width" : 3055,
+  "id" : "https://iiif-test.github.io/v3-testing/images/08-d-2004-84-654e_001-22_cr",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3980
+}
