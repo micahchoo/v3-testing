@@ -33,5 +33,9 @@
       "en" : [ "Playbill Cover with Manifest Thumbnail" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/v3-testing/manifests/manifest.json",
+    "label" : "This is Glen's fantastic manifest"
   } ]
 }
